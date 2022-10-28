@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Live App
+[here is a link to the live app](https://react-calculator-one-iota.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
